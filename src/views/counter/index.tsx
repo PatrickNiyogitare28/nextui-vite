@@ -5,6 +5,7 @@ import { classNames } from 'classnames-generics'
 import { useTranslation } from 'react-i18next';
 import styles from './styles.module.scss'
 import "@locales/i18n";
+import { Button } from '@nextui-org/react';
 
 const Counter = () => {
     const {t} = useTranslation();
@@ -34,6 +35,9 @@ const Counter = () => {
 
             <div>
                 <CounterComponent />
+            </div>
+            <div>
+                <Button>Default</Button>
             </div>
         </div>
     )

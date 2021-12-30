@@ -1247,6 +1247,13 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
+"@nextui-org/react@^1.0.2-alpha.1":
+  version "1.0.2-alpha.1"
+  resolved "https://registry.yarnpkg.com/@nextui-org/react/-/react-1.0.2-alpha.1.tgz#1a31a9ae5ecc352380427a8091dfc067b9e21e31"
+  integrity sha512-EMRhRjrCiKubUbpSNIckTPwZSrB/DCfKzAc5DB5EruqBceEVFRwRBtVzGRdtlBwtDqO//rRtQuPpw93rJYJizA==
+  dependencies:
+    "@stitches/react" "^1.2.6"
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
@@ -1299,6 +1306,11 @@
   integrity sha512-OAPJUAtgeINhh/TAlUID4QTs53Njm7xzddaVlEs/SXwgtiD1tW22zAB/W1wdqfrpmikgaWQ9Fw6Ws+hsiRm5Vg==
   dependencies:
     "@sinonjs/commons" "^1.7.0"
+
+"@stitches/react@^1.2.6":
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/@stitches/react/-/react-1.2.6.tgz#61f2a3d1110334ecd33bcb7463650127d42470cb"
+  integrity sha512-gRVITYj8W4jJmoiVxWDv72yCvd12VvtUUAnTzs07EqmtvGCVgKZu3Dx0x5KVCcb0b6tfgvvNH2L84YrzdM4Mag==
 
 "@testing-library/dom@^8.0.0", "@testing-library/dom@^8.11.1":
   version "8.11.1"
